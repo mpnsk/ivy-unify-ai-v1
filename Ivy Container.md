@@ -1,0 +1,1 @@
+a convenience class holding any kind of data
