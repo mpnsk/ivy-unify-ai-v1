@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "f0c31a19ea38f770",
+    "type": "split",
+    "children": [
+      {
+        "id": "f074264418a2d349",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af13f28bda97e7f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bfb0067c7039c4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "support.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92ce16e43b9481e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "non-implemented features.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "041c1e609c67c256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ivy modules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95fc18e222940353",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "modules/backend api.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09c6e752dab3d565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "modules/functional api.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f49313ca325a015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "modules/backend handler.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0db09dceff552778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "modules/graph compiler.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c73cf1c46b4bf3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ivy as transpiler.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0ecd69287ebc558",
+    "type": "split",
+    "children": [
+      {
+        "id": "d01858b109ca2395",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90fba8ac0394b323",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "332a7274e93ee4db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e233ab159e1285e2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0fe118d9b693adb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "67bf2e8099e267aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "731546ff298bf877",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ivy as transpiler.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "377ce1ac263ee481",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ivy as transpiler.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6b0b76c37edcbf5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ca480cfb5b86f1ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ivy as transpiler.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8c73cf1c46b4bf3e",
+  "lastOpenFiles": [
+    "modules/graph compiler.md",
+    "modules/backend handler.md",
+    "modules/functional api.md",
+    "modules/backend api.md",
+    "ivy modules.md",
+    "non-implemented features.md",
+    "support.md",
+    "index.md"
+  ]
+}
